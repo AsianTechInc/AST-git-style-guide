@@ -2,6 +2,7 @@
 Là 1 mô hình cách quản lý và sử dụng Git hiện đại, được tạo ra bởi Vincent Driessen. Nó đã chứng minh được sự hiệu quả và uyển chuyển của mình trong rất nhiều các dự án opensource và được công nhận rộng rãi trong cộng đồng LTV.
  
 Dưới đây là mô hình tổng quát về git-flow.
+
 ![image](https://cloud.githubusercontent.com/assets/1412648/8957459/d0bf758c-3628-11e5-9ecf-e17438111ccc.png)
 
 # Ý nghĩa của các branch trong Git-flow
