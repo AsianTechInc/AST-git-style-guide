@@ -1,8 +1,7 @@
 # Git guide
-Hướng dẫn và quy ước sử dụng git của công ty AsianTech inc. Mọi sự sao chép, đăng tải lại đều cần sự cho phép của công ty AsianTech.
-Tất cả các nhân viên trong công ty có trách nhiệm và nghĩa vụ phải đọc và tuân theo guide chung của công ty. Những việc làm trái với guide này và gây hậu quả nghiêm trọng đều sẽ bị xử lý theo quy định của công ty.
+Hướng dẫn và quy ước sử dụng git của công ty AsianTech inc.
 
-## Khi có vấn đề cần trao đổi, góp ý
+### Khi có vấn đề cần trao đổi, góp ý
 Mọi người thoải mái tạo issue hoặc gửi pull request
 
 # Những điều phải học
