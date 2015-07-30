@@ -35,6 +35,13 @@ Số lượng phân loại trên thực sự là quá nhiều và phức tạp, 
 * remove : xoá ( file )
 * revert : chữa cháy
 
+#### Sử dụng linh hoạt
+Phần phân loại này tuỳ theo từng dự án mà phân loại cho phù hợp, không nhất thiết phải sử dụng những định nghĩa trên.
+
+Ví dụ với dự án có frontend, backend, payment, ... thì có thể phân loại dựa theo chức năng.
+
+Tuy nhiên, cần phải định nghĩa chung cách phân loại từ đầu mỗi dự án để tất cả mọi người cùng tuân theo.
+
 ### Tóm tắt
 `[động từ] [danh từ] [trợ từ/phó từ] [#{issue ID}] `
 Tóm tắt nội dung của những thay đổi trong commit 1 cách ngắn gọn. Theo 1 số quy ước khác thì dòng này sẽ không quá 80 kí tự. Ngoài ra cũng nên hạn chế sử dụng từ chuyên môn. 
