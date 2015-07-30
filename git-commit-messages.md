@@ -1,8 +1,10 @@
 # Nguyên tắc
 Format như sau : 
+```
 dòng 1: thông tin cơ bản về nội dung thay đổi ( title, tóm tắt, ... )
 dòng 2: khoảng trắng
 dòng 3 trở đi: Lý do thay đổi, nội dung thay đổi cụ thể, ... 
+```
 
 Tiếng Anh, tiếng Nhật đều được, nhưng 1 project thì dùng thống nhất 1 ngôn ngữ thôi. Và không dùng tiếng Việt nhé =))
 
